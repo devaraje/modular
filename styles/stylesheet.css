@@ -1,0 +1,28 @@
+* { box-sizing: border-box;}
+
+body {
+  background-color: white;
+}
+
+.product-tile {
+  float: left;
+  background-color: white;
+  border: none;
+}
+
+.product-list-item {
+  list-style: none;
+  text-align: left;
+  max-width: 16rem;
+}
+
+.product-description {
+  font-family: "Helvetic Neue", Helvetica, Arial;
+  font-weight: bold;
+}
+
+.product-rating {
+  clear: both;
+  text-align: left;
+}
+
